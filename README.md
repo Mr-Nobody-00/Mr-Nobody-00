@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="left">⚡Code ninja by day, Linux wizard by night.<br>⚡Breaking things just to fix them better (mostly on purpose😁).<br>⚡Fluent in Python, Java, bash, and caffeinated debugging.</h4>
+<h4 align="center">⚡Code ninja by day, Linux wizard by night.<br>⚡Breaking things just to fix them better (mostly on purpose😁).<br>⚡Fluent in Python, Java, bash, and caffeinated debugging.</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -17,14 +17,20 @@
 </div>
 
 ###
+###
+<br>
 
 <img src="https://raw.githubusercontent.com/Mr-Nobody-00/Mr-Nobody-00/output/snake.svg" alt="Snake animation" />
 
-###
+<table>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/Mrnobody0110" alt="LeetCode Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mr-Nobody-00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Nobody-00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Nobody-00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
